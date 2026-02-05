@@ -1,1 +1,1 @@
-<img src="fire.gif" width="1080" align="center">
+<img src="fire.webp" width="100%" align="center">
